@@ -1,6 +1,6 @@
 ﻿---
 sidebar_label: 'Reglas de DZC'
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Contents
