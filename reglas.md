@@ -3,10 +3,6 @@ sidebar_label: 'Reglas de DZC'
 sidebar_position: 1
 ---
 
-![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.001.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.002.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.003.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.004.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.005.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.006.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.007.png)
-
-V2.2.0![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.008.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.009.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.010.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.011.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.012.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.013.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.014.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.015.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.016.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.017.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.018.png)
-
 # Contents
 
 2
@@ -75,11 +71,11 @@ the game is represented by a stat sheet. These sheets show all sorts of informat
 
 **All stat sheets can be found at www.dropzonecommander.com**
 
-A Hazard Suit Team 35 pts 1 B ![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.019.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.020.png)Move measuresCounter  Armour Damage Points Type Special C
+A Hazard Suit Team 35 pts 1 B Move measuresCounter  Armour Damage Points Type Special C
 
 1” - 9 3 Infantry 4+ Resilient
 
-D![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.021.png) E
+D E
 
 Squad Size: 2
 
@@ -91,15 +87,15 @@ Squad Size: 2
 |Powered Armour|-|F/S/R|CQ|CQ|3|-|5|RW-1|
 Hazard Suit
 
-F ![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.022.png)
+F
 
 Re-roll successful Collatoral Damage hits against this unit.
 
-A **Category -** This defines the unit s role within a Battlegroup.![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.023.png)
+A **Category -** This defines the unit s role within a Battlegroup.
 
 B **Transport Options -** This represents if this unit can carry other units and if it
 
-can be carried by other units, as well as how much it can carry and how much space it takes up if it can be carried (see Transports for more details).![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.024.png)
+can be carried by other units, as well as how much it can carry and how much space it takes up if it can be carried (see Transports for more details).
 
 C **Name -** The name of the unit.
 
@@ -127,15 +123,15 @@ when moving through or over scenery). Infantry types will have a number showing 
 
 **Special -** Any special rules which apply to the unit. Any rules listed here are
 
-described in the main rules.![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.025.png)
+described in the main rules.
 
 D **Squad Size -** This number represents the allowed number of units in the Squad.
 
-In this example, a Squad consists of 2 Hazard Suit Teams.![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.026.png)
+In this example, a Squad consists of 2 Hazard Suit Teams.
 
 E **Weapons -** Any weapons the unit has access to are listed here. A unit may have
 
-multiple weapons, and unless otherwise stated can use them all in a single activation.  ![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.027.png)
+multiple weapons, and unless otherwise stated can use them all in a single activation.
 
 F **Extra rules -** Some units have options, such as additional weapons. These are
 
@@ -675,7 +671,7 @@ Some units will have both Capacity and Requirement symbols, showing that they ar
 
 3 6
 
-The requirement symbol on the left ![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.028.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.029.png)
+The requirement symbol on the left
 
 shows that the unit takes up 3 spaces in a transport. The capacity symbol on the right shows that the unit can transport up to six spaces of that symbol, so could transport up to 2 of the unit on the left.
 
@@ -1585,7 +1581,7 @@ Unless otherwise stated, a single Battlegroup may not come to **more than 33%** 
 
 
 
-Skirmish ![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.030.png)500-999 points
+Skirmish 500-999 points
 
 HQ  Frontline 0-1 1-2
 
@@ -1599,7 +1595,7 @@ War Engine Auxiliary
 
 Clash 1000-1999 points
 
-HQ  Frontline 1![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.031.png) 1-2
+HQ  Frontline 1 1-2
 
 Armour  Vanguard 1-2 0-2
 
@@ -1609,7 +1605,7 @@ War Engine Auxiliary
 
 Battle 2000+ points
 
-HQ  Frontline 1-2![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.032.png) 1-2
+HQ  Frontline 1-2 1-2
 
 Armour  Vanguard 1-2 0-2
 
@@ -1655,13 +1651,13 @@ All units in a squad must be armed identically, so if one unit choose to replace
 
 
 
-HQ  Frontline  Armour Battlegroup![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.033.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.034.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.035.png) Battlegroup Battlegroup
+HQ  Frontline  Armour Battlegroup Battlegroup Battlegroup
 
 Command  Scout  Heavy  Troops  Exotic  Support  Standard  Heavy  Support
 
 1-2 0-2 0-1 1-3 0-1 0-1 1-3 0-2 0-1
 
-Vanguard  War Engine Battlegroup![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.036.png)![](img/Aspose.Words.e2e4d8b2-3d73-481e-80da-0713c9e0fb6f.037.png) Battlegroup
+Vanguard  War Engine Battlegroup Battlegroup
 
 Scout  Exotic  Support  Behemoth
 
