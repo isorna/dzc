@@ -15,7 +15,7 @@ Requirement is shown by a solid symbol, and Capacity value is shown by an outlin
 
 There are several different types of symbols, representing differing carrying ability. The symbols are accompanied by a number, indicating the amount of space either required or available.
 
-In order for a unit to be transported, its Requirement symbol must **match** a Transport s Capacity symbol and the Transport cannot carry more than the number listed in total. Some units will have different Capacity symbols. Some share the same number, and others have different Capacity for different types of passengers.
+In order for a unit to be transported, its Requirement symbol must **match** a Transport's Capacity symbol and the Transport cannot carry more than the number listed in total. Some units will have different Capacity symbols. Some share the same number, and others have different Capacity for different types of passengers.
 
 Some units will have both Capacity and Requirement symbols, showing that they are Transports that can in turn be carried by another, larger Transport.
 
@@ -43,7 +43,7 @@ Squads may choose to either embark into or disembark from a transport **as part 
 
 If a squad is **in coherency** and **at least one unit** **ends** its moving action within 2" of a transport in the same Battlegroup, it may embark into the transport(s), providing their transport values match. Remove the squad from the board - it is now embarked in the Transport(s).
 
-A squad embarked in a Transport is **ignored** for all game purposes - they cannot shoot or be shot, don t count as moving when their Transport moves etc. Commanders in Transports still may use their Command Value, and Influence radius. Simply measure from the Transport they re embarked in.
+A squad embarked in a Transport is **ignored** for all game purposes - they cannot shoot or be shot, don't count as moving when their Transport moves etc. Commanders in Transports still may use their Command Value, and Influence radius. Simply measure from the Transport they re embarked in.
 
 A squad embarked in a Transport may choose to disembark when it makes a Moving action. Place them on the board within 2" of the Transport **in coherency,** and then make their moving action like normal. If any units cannot be placed (due to impassable scenery or other units being in the way for example), the squad cannot disembark.
 

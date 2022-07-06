@@ -36,7 +36,7 @@ If a squad carrying an Objective ends its activation with at least 1 unit within
 
 This scenario works best with plenty of scenery.
 
-It s recommended that every Objective be placed within a Garrison, although it can be played in a more open environment with a few forests or sparse bunkers to protect the Objectives.
+It's recommended that every Objective be placed within a Garrison, although it can be played in a more open environment with a few forests or sparse bunkers to protect the Objectives.
 
 **Variant: "Primary Target"**
 

@@ -27,7 +27,7 @@ A friendly Infantry or Vehicle squad **in coherency** with at least 1 unit **wit
 
 When searching, **roll 1 dice for the squad** searching. If there are **enemy units within 2" or in the same Garrison,** the dice roll is modified by **-1.** Add the resulting number to the number of the current round. **If the result is 7 or more,** the Objective permanently becomes an Open Objective and the unit claims it.
 
-A Transport that doesn t have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
+A Transport that doesn't have the Aircraft type may choose to make a scan action, counting as both of its actions for the round. Place a **Scan Token** by the unit. Before a squad makes a search roll, you may **remove any friendly Scan Tokens within 2" to add +1 to the search roll per token.** If the searching unit is in a Garrison, measure the distance to any edge of the Garrison. If the Transport makes a Moving action, remove its Scan Token. **A unit may only have 1 Scan Token at a time.**
 
 ### Mobile Objectives
 
